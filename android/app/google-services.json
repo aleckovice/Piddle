@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854446184866",
+    "project_id": "piddle-final",
+    "storage_bucket": "piddle-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854446184866:android:d4e27957df23d43c08bafb",
+        "android_client_info": {
+          "package_name": "com.example.piddle_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854446184866-jhkc3ota2v4jo6pqe3mo262epkvvrhki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYhkkSNTPGCPDH8AHJwvmy72o_9KTWOWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854446184866-jhkc3ota2v4jo6pqe3mo262epkvvrhki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
